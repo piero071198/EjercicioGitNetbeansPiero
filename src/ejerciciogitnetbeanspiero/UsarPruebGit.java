@@ -9,9 +9,8 @@ package ejerciciogitnetbeanspiero;
  *
  * @author piero
  */
-public class PruebaGit {
-    public static int numero =5;
-    public static void cambio(){
-    numero=20;
+public class UsarPruebGit {
+    public static void main(String[] args) {
+        System.out.println("Hola mundo desde Git");
     }
 }
